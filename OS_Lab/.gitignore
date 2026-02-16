@@ -1,0 +1,21 @@
+# .gitignore for OS_Lab
+# Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Build artifacts (if any C/C++ code is added later)
+*.o
+*.out
+*.exe
