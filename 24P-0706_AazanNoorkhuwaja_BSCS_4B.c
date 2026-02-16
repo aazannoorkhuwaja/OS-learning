@@ -3,7 +3,7 @@
 // Roll No:24P-0706
 // Section:4B
 // Course:Operating System
-// Assignment-1
+// Assignment:1
 
 
 #include<unistd.h>//this is headerfile which contaions system call functions read and write functions.
