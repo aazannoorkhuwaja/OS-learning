@@ -1,7 +1,7 @@
 # 🖥️ Operating Systems Learning Repository
 
 > **Student:** Aazan Noor Khuwaja  
-> **Course:** Operating Systems (4rd Semester)  
+> **Course:** Operating Systems (4th Semester)  
 > **Degree:** BS Computer Science  
 
 Welcome to my **Operating Systems Learning** repository! 🚀 This collection documents my journey through understanding the core concepts of Operating Systems, including process management, memory allocation, file systems, and Linux system administration.
