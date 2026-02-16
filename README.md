@@ -1,7 +1,3 @@
-# Operating Systems Learning Repository
+# OS Learning
 
-This repository tracks my progress in learning Operating Systems concepts. It contains assignments, projects, and code examples.
-
-## Assignments
-
-- **[Assignment 1](./assignment-1/)**: System Call Operations in C (Low-level interaction with hardware).
+This repository contains all my learning materials, assignments, and labs for the Operating Systems course during my 3rd semester.
